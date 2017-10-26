@@ -99,11 +99,7 @@
 	*/
 	body {
 		height: 100%;
-		background-color: #ffffff;
-		background-image: url("background.jpg"), -moz-linear-gradient(60deg, rgba(131, 131, 132, 0.5) 5%, rgba(7, 76, 188, 0.35)), url("../../images/bg.jpg");
-		background-image: url("background.jpg"), -webkit-linear-gradient(60deg, rgba(131, 131, 132, 0.5) 5%, rgba(7, 76, 188, 0.35)), url("../../images/bg.jpg");
-		background-image: url("background.jpg"), -ms-linear-gradient(60deg, rgba(131, 131, 132, 0.5) 5%, rgba(7, 76, 188, 0.35)), url("../../images/bg.jpg");
-		background-image: url("background.jpg"), linear-gradient(60deg, rgba(131, 131, 132,0.5) 5%, rgba(7, 76, 188, 0.35)), url("../../images/bg.jpg");
+		background-image: url("background.jpg");
 		
 	}
 
